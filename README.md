@@ -11,33 +11,32 @@ This repository contains all the Jupyter Notebooks, Excel files, visualizations,
 
 ## Task 2: Data Cleaning and Modelling
 
-### 📓 [Task 2 Python Notebook for Data Preprocessing and Cleaning](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%202%3A%20Data%20Cleaning%20and%20Modelling/Forage%20Accenture%20Data%20Analytics%20Task%202%20-%20Data%20Cleaning%20and%20Modelling.ipynb)
+### 📓 [Task 2 Python Notebook for Data Preprocessing and Cleaning](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%202%20-%20Data%20Cleaning%20and%20Modelling/Forage%20Accenture%20Data%20Analytics%20Task%202%20-%20Data%20Cleaning%20and%20Modelling.ipynb)
 
-### 📊 [Task 2 Excel File – Cleaned Dataset](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%202%3A%20Data%20Cleaning%20and%20Modelling/Cleaned%20Dataset.xlsx)
+
+### 📊 [Task 2 Excel File – Cleaned Dataset](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%202%20-%20Data%20Cleaning%20and%20Modelling/Cleaned%20Dataset.xlsx)
 
 ---
 
 ## Task 3: Data Visualization and Storytelling
 
-### 🧪 [Interactive Python Notebook](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%203%3A%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20Storytelling.ipynb)
+### 🧪 [Interactive Python Notebook](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%203%20-%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20Storytelling..ipynb)
 
-### 📝 [Task 3 Data Insights PDF](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%203%3A%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20Storytelling.pdf)
+### 🎞️ [Task 3 Presentation Slides (.pptx)](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%203%20-%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20Storytelling.pptx)
 
-### 🎞️ [Task 3 Presentation Slides (.pptx)](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%203%3A%20Data%20Visualization%20and%20Storytelling/Forage%20Accenture%20Data%20Analytics%20Task%203%20-%20Data%20Visualization%20and%20Storytelling.pptx)
-
-### 📂 [Cleaned and Analyzed Dataset](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%203%3A%20Data%20Visualization%20and%20Storytelling/Cleaned%20Dataset.xlsx)
+### 📂 [Cleaned and Analyzed Dataset](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%203%20-%20Data%20Visualization%20and%20Storytelling/Cleaned%20Dataset%20(1).xlsx)
 
 ---
 
 ## Task 4: Client Presentation
 
-🎥 [Client Presentation Video](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%204%3A%20Client%20Presentation/Client%20Presentation.mp4)
+🎥 [Client Presentation Video](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Task%204%20-%20Client%20Presentation/Client%20Presentation.mp4)
 
 ---
 
 ## 🎓 Completion Certificate
 
-📄 [View Certificate](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Completion%20Certificate.pdf)
+📄 [View Certificate](https://github.com/Abishekrajeshh/Forage-Accenture-Data-Analytics/blob/main/Completion%20certificate.pdf)
 
 ---
 
